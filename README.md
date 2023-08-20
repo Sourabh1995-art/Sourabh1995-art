@@ -1,4 +1,4 @@
-[![MasterHead](https://repository-images.githubusercontent.com/245385808/f1342400-cbd9-11eb-84d5-36d6ce41d01a)
+![MasterHead](https://repository-images.githubusercontent.com/245385808/f1342400-cbd9-11eb-84d5-36d6ce41d01a)
 
 <h1 align="center">Hi 👋, I'm Sourabh Shinde</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
