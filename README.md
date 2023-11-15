@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Python SQL Tableau and Excel**
 
-- 📫 How to reach me **sourabhshinde5352@gmail.com**
+- 📫 How to reach me **sourabhshinde350@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
